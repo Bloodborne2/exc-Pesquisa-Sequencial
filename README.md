@@ -1,0 +1,1 @@
+# exc-Pesquisa-Sequencial
